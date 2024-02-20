@@ -17,4 +17,6 @@ Back end:<br>
 Front end:<br>
 
 • Utilization of HTML, CSS, and JavaScript;<br>
-• Implementation of a Single Page Application (SPA).
+• Implementation of a Single Page Application (SPA). <br>
+
+Check out my video on youtube: https://www.youtube.com/watch?v=-GiapcY12CA
